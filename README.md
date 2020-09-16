@@ -1,5 +1,4 @@
-[![Badge](https://cp-logo.vercel.app/atcoder/tochukaso)]
-(https://atcoder.jp/users/tochukaso)
+[![Badge](https://cp-logo.vercel.app/atcoder/tochukaso)](https://atcoder.jp/users/tochukaso)
 
 <!--
 **tochukaso/tochukaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
