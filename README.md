@@ -1,5 +1,5 @@
-[![Badge](https://cp-logo.vercel.app/atcoder/tochukaso)](https://atcoder.jp/users/tochukaso)
-[![Badge](https://cp-logo.vercel.app/codeforces/yasumitsuoomori)](https://codeforces.com/profile/yasumitsuoomori)
+[![AtCoder](https://badges.riever.dev/atcoder/tochukaso.svg?left_color=lightgray)](https://atcoder.jp/users/tochukaso)
+[![Codeforces](https://badges.riever.dev/codeforces/yasumitsuoomori.svg)](https://codeforces.com/profile/yasumitsuoomori)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tochukaso&count_private=true&show_icons=true" />
